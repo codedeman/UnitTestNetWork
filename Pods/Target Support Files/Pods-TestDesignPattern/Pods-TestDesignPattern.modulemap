@@ -1,0 +1,6 @@
+module Pods_TestDesignPattern {
+  umbrella header "Pods-TestDesignPattern-umbrella.h"
+
+  export *
+  module * { export * }
+}
